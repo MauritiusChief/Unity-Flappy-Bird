@@ -793,7 +793,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   birdBody: {fileID: 633777413}
-  flapStrength: 10
+  flapStrength: 7
   logicLib: {fileID: 0}
   birdSound: {fileID: 633777418}
 --- !u!58 &633777417
